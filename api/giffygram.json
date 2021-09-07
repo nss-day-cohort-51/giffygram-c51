@@ -31,6 +31,19 @@
       "id": 6
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "id":1,
+      "userId":1,
+      "title":"This is so so funny",
+      "imageURL":"https://media.giphy.com/media/10JhviFuU2gWD6/giphy.gif"
+    },
+    {
+      "id":2,
+      "userId":1,
+      "title":"This is even better than before",
+      "imageURL":"https://media.giphy.com/media/3i7zenReaUuI0/giphy.gif"
+    }
+  ],
   "messages": []
 }
