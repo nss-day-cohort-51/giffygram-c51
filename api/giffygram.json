@@ -33,16 +33,36 @@
   ],
   "posts": [
     {
-      "id":1,
-      "userId":1,
-      "title":"This is so so funny",
-      "imageURL":"https://media.giphy.com/media/10JhviFuU2gWD6/giphy.gif"
+      "title": "This will be amazing",
+      "imageURL": "https://media.giphy.com/media/88iYsvbegSUn9bSTF8/giphy.gif",
+      "description": "No story here",
+      "userId": 1,
+      "timestamp": 1631130005197,
+      "id": 1
     },
     {
-      "id":2,
-      "userId":1,
-      "title":"This is even better than before",
-      "imageURL":"https://media.giphy.com/media/3i7zenReaUuI0/giphy.gif"
+      "title": "This shouldn't work",
+      "imageURL": "https://media.giphy.com/media/Rgss7R0Ey0rAY/giphy.gif",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1631131000311,
+      "id": 2
+    },
+    {
+      "title": "This shouldn't work part",
+      "imageURL": "https://media.giphy.com/media/Rgss7R0Ey0rAY/giphy.gif",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1631131000311,
+      "id": 25
+    },
+    {
+      "title": "One more time to not work",
+      "imageURL": "https://media.giphy.com/media/11qBG0k3hCDRCM/giphy.gif",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1631131206711,
+      "id": 26
     }
   ],
   "messages": []
